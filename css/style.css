@@ -1,0 +1,13 @@
+:root {
+  --light-shade: #F6F4F1; /* PAMPAS */
+  --light-accent: #9BB398; /* NORWAY */
+  --main-brand: #CB9656; /* TUSSOCK */
+  --dark-accent: #9C4358; /* VIN ROUGE */
+  --dark-shade: #2E3A4D; /* PICKLED BLUEWOOD */
+  --super-dark: #1C222C; /* DARK SLATE GRAY */
+}
+
+body {
+  background-color: var(--main-brand);
+  font-family: 'Helvetica Rounded', 'Arial Rounded MT Bold','Montserrat', sans-serif;
+}

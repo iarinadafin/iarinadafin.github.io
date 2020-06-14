@@ -8,6 +8,6 @@
 }
 
 body {
-  background-color: var(--main-brand);
+  background-color: var(--light-shade);
   font-family: 'Helvetica Rounded', 'Arial Rounded MT Bold','Montserrat', sans-serif;
 }
